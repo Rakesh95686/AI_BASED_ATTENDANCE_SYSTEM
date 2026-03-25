@@ -112,4 +112,4 @@ http://127.0.0.1:5000
 
 ## 👨‍💻 Author
 
-Aashish Joshi — [jaashish109@gmail.com](mailto:jaashish109@gmail.com)
+Rakesh Kumar Lohani — [rakeshlohani47@gmail.com](mailto:rakeshlohani47@gmail.com)
